@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Ml engineer, aspiring SF unicorn Founder, CS stud prodigy, open to new connections
 <!--
 **SlavaInaffection/SlavaInaffection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
