@@ -4,12 +4,11 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <h1>Hi there, I'm Viacheslav </h1>
   <p><em>ml/ai engineer · builder · future founder</em></p>
 </div>
 
----
 
 ### about me
 
