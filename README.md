@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="./MovGitHubGIF.gif" alt="Slava" width="480" />
 </div>
 
