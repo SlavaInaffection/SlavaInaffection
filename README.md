@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h1>Hi there, I'm Viacheslav 👾</h1>
+  <h1>Hi there, I'm Viacheslav </h1>
   <p><em>ml/ai engineer · builder · future founder</em></p>
 </div>
 
