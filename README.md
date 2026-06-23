@@ -1,5 +1,5 @@
-<div align="left">
-  <img src="./MovGitHubGIF.gif" alt="Slava" width="480" />
+<div align="center">
+  <img src="./MovGitHubGIF.gif" alt="Slava" width="640" />
 </div>
 
 <br/>
