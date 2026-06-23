@@ -5,19 +5,20 @@
 <br/>
 
 <div align="center">
-  <h1>hey, i'm slava 👾</h1>
-  <p><em>ml engineer · builder · future founder</em></p>
+  <h1>Hi there, I'm Viacheslav 👾</h1>
+  <p><em>ml/ai engineer · builder · future founder</em></p>
 </div>
 
 ---
 
 ### about me
 
-- 🧠 &nbsp;machine learning engineer — modeling, experimentation, applied AI
-- 🛠️ &nbsp;always building something — projects across multiple domains
-- 🚀 &nbsp;long-term goal: found something that matters
-- 📍 &nbsp;based in italy, thinking globally
-- ✨ &nbsp;positive mental attitude, always
+- livin' right now in Europe
+- love building something
+- goal: found a unicorn company
+- always believing in myself
+- positive mental attitude
+- open to new connections
 
 ---
 
@@ -27,15 +28,6 @@
 ![ML/AI](https://img.shields.io/badge/ML%2FAI-111111?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
-
----
-
-### github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlavaInaffection&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlavaInaffection&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="150" />
-</div>
 
 ---
 
